@@ -20,7 +20,7 @@ This is a simple Tic-Tac-Toe game implemented in Java. Players can play against 
 ### Installation
 
 1. Clone the repository:
-   - git clone https://github.com/DeepakSriram66/TicTacToe.git
+   - git clone https://github.com/sriram15112001/TicTacToe.git
 2. Navigate to the project directory:
    - cd TicTacToe/TicTacToe-Maven
 3. Build the project using Maven:
